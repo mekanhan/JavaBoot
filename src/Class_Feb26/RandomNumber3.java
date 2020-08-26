@@ -1,4 +1,4 @@
-package Class_Feb26;
+package class_Feb26;
 
 public class RandomNumber3 {
     public static void main(String[] args) {

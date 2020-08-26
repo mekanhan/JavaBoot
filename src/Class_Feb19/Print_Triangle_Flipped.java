@@ -1,4 +1,4 @@
-package Class_Feb19;
+package class_Feb19;
 
 public class Print_Triangle_Flipped {
     public static void main(String[] args){

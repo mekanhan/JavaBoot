@@ -1,4 +1,4 @@
-package Class_Feb16;
+package class_Feb16;
 
 public class PrintNumbers_3Digit_Binary_InneFor__middle_For_OuterFor_Loops {
     public static void main(String[] args){

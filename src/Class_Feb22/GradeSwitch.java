@@ -1,4 +1,4 @@
-package Class_Feb22;
+package class_Feb22;
 
 public class GradeSwitch {
     public static void main(String[] args){

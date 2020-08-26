@@ -1,4 +1,4 @@
-package Java_Book_Samples;
+package java_Book_Samples;
 
 // In a switch, break statements are optional.
 class MissingBreak_in_Switch {
